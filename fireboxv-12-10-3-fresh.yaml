@@ -1,0 +1,11 @@
+id: fireboxv-12-10-3-fresh
+node_definition_id: watchguard
+description: watchguard test
+label: fireboxv-12-10-3-fresh
+disk_image: fireboxv-12_10_3.qcow2
+read_only: false
+ram: 2048
+cpus: 2
+data_volume: 8
+disk_subfolder: fireboxv-12-10-3-fresh
+schema_version: 0.0.1
